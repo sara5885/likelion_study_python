@@ -17,4 +17,3 @@ length=int(input("정사각형의 한 변의 길이를 입력하세요 : "))
 
 result=Square(length)
 result.area(length)
- 
